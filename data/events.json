@@ -1,0 +1,217 @@
+[
+  {
+    "id": "evt-1",
+    "title": "BMU Tech Workshop",
+    "clubId": "acm",
+    "club": "ACM Student Chapter",
+    "category": "Technical",
+    "date": "20 September 2026",
+    "time": "10:00 AM \u2013 1:00 PM",
+    "venue": "Innovation Lab",
+    "desc": "Hands-on IoT, microcontroller programming, and cloud telemetry workshop. Hardware kits provided for student teams.",
+    "seats": 28,
+    "capacity": 60,
+    "speakers": [
+      "Dr. R. K. Sharma (Faculty Advisor)",
+      "Aayush Patel (Chair, ACM BMU)"
+    ],
+    "prerequisites": "Laptop with VS Code installed. Basic C++/Python familiarity recommended.",
+    "agenda": [
+      {
+        "time": "10:00 AM",
+        "title": "Welcome & Hardware Kit Unboxing"
+      },
+      {
+        "time": "10:45 AM",
+        "title": "ESP32 & Sensor Interfacing"
+      },
+      {
+        "time": "11:45 AM",
+        "title": "Cloud MQTT Telemetry Streaming"
+      },
+      {
+        "time": "12:30 PM",
+        "title": "Live Prototype Demo & Q&A"
+      }
+    ]
+  },
+  {
+    "id": "evt-2",
+    "title": "Cultural Night & Jam",
+    "clubId": "blaze",
+    "club": "Blaze & PFA",
+    "category": "Cultural",
+    "date": "25 September 2026",
+    "time": "6:00 PM Onwards",
+    "venue": "Main Auditorium",
+    "desc": "Annual campus cultural kickoff featuring musical jam sessions, dance performances, and Blaze runway showcase.",
+    "seats": "Open Campus",
+    "capacity": 500,
+    "speakers": [
+      "Prof. Ananya Sen",
+      "Blaze Executive Board"
+    ],
+    "prerequisites": "Open to all BMU students with valid campus ID.",
+    "agenda": [
+      {
+        "time": "6:00 PM",
+        "title": "Acoustic Musical Jam by Symphony"
+      },
+      {
+        "time": "7:15 PM",
+        "title": "Liquid Dance Crew Spotlight"
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Blaze Fashion Runway Collection"
+      },
+      {
+        "time": "9:00 PM",
+        "title": "Open Mic & DJ Night"
+      }
+    ]
+  },
+  {
+    "id": "evt-3",
+    "title": "HR Conclave 2026",
+    "clubId": "agraga",
+    "club": "Agraga \u2013 The HR & IR Club",
+    "category": "Professional",
+    "date": "28 September 2026",
+    "time": "11:00 AM \u2013 4:00 PM",
+    "venue": "Executive Conference Hall",
+    "desc": "Industry leadership keynote and HR masterclass panels featuring corporate heads from Fortune 500 enterprises.",
+    "seats": 45,
+    "capacity": 100,
+    "speakers": [
+      "Ms. Neha Gupta (VP HR, Hero MotoCorp)",
+      "Mr. Rajesh Verma (Talent Head, Deloitte)"
+    ],
+    "prerequisites": "Formal attire required. Bring resumes for networking rounds.",
+    "agenda": [
+      {
+        "time": "11:00 AM",
+        "title": "Keynote: The AI-Driven Future of Work"
+      },
+      {
+        "time": "12:30 PM",
+        "title": "Panel Discussion: Campus-to-Corporate Transition"
+      },
+      {
+        "time": "02:00 PM",
+        "title": "Mock Behavioral Interview Simulation"
+      },
+      {
+        "time": "03:30 PM",
+        "title": "Networking Mixer & Certificates"
+      }
+    ]
+  },
+  {
+    "id": "evt-4",
+    "title": "Auto Expo & Track Day",
+    "clubId": "automobile",
+    "club": "Automobile Club",
+    "category": "Technical",
+    "date": "30 September 2026",
+    "time": "10:00 AM \u2013 5:00 PM",
+    "venue": "Main Academic Ground",
+    "desc": "Live showcase of student-designed formula prototypes, electric vehicle builds, and mechanical performance displays.",
+    "seats": "Open Entry",
+    "capacity": 350,
+    "speakers": [
+      "Dr. Maneesh Yadav (Faculty Lead)",
+      "Formula Student Team Leads"
+    ],
+    "prerequisites": "Safety goggles provided on site for track demonstrations.",
+    "agenda": [
+      {
+        "time": "10:00 AM",
+        "title": "Formula Student Vehicle Unveiling"
+      },
+      {
+        "time": "11:30 AM",
+        "title": "Telemetry & Powertrain Walkthrough"
+      },
+      {
+        "time": "02:00 PM",
+        "title": "Live Track Lap Time Trials"
+      },
+      {
+        "time": "04:00 PM",
+        "title": "Student Design Competition Awards"
+      }
+    ]
+  },
+  {
+    "id": "evt-5",
+    "title": "CodeQuest Hackathon",
+    "clubId": "acm",
+    "club": "ACM & SATA",
+    "category": "Technical",
+    "date": "05 October 2026",
+    "time": "24 Hours Non-Stop",
+    "venue": "Innovation Lab & Ground",
+    "desc": "24-hour sprint on applied AI, smart mobility, and sustainability challenges with mentorship and rewards.",
+    "seats": "Teams Only",
+    "capacity": 120,
+    "speakers": [
+      "Google Developer Experts",
+      "BMU Incubation Faculty"
+    ],
+    "prerequisites": "Teams of 2 to 4 students. GitHub repository required.",
+    "agenda": [
+      {
+        "time": "09:00 AM",
+        "title": "Hackathon Kickoff & Problem Statement Reveal"
+      },
+      {
+        "time": "01:00 PM",
+        "title": "Mentor Evaluation Checkpoint 1"
+      },
+      {
+        "time": "08:00 PM",
+        "title": "Mid-Hack Pitch & Pizza Break"
+      },
+      {
+        "time": "09:00 AM (Day 2)",
+        "title": "Final Demos & Grand Prize Ceremony"
+      }
+    ]
+  },
+  {
+    "id": "evt-6",
+    "title": "Rhythms 2.0 Dance Fest",
+    "clubId": "pfa",
+    "club": "The Performing Arts Club",
+    "category": "Cultural",
+    "date": "12 October 2026",
+    "time": "5:00 PM Onwards",
+    "venue": "MPH (Multi-Purpose Hall)",
+    "desc": "Inter-batch choreography battles, solo classical showcases, street dance face-offs, and open musical mic.",
+    "seats": "Open Campus",
+    "capacity": 400,
+    "speakers": [
+      "National Dance Adjudicators"
+    ],
+    "prerequisites": "Audience entry free. Participant registrations close Oct 8.",
+    "agenda": [
+      {
+        "time": "05:00 PM",
+        "title": "Classical Solo Competition"
+      },
+      {
+        "time": "06:30 PM",
+        "title": "Inter-Batch Crew Showcase"
+      },
+      {
+        "time": "08:00 PM",
+        "title": "All-Styles Street Dance Cypher"
+      },
+      {
+        "time": "09:15 PM",
+        "title": "Trophy Presentation & Celebration"
+      }
+    ]
+  }
+]

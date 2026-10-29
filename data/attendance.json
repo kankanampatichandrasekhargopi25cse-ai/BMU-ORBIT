@@ -1,0 +1,20 @@
+[
+  {
+    "regId": "BMU-2026-X8921",
+    "eventName": "BMU Tech Workshop",
+    "studentName": "Rohan Verma",
+    "studentId": "BMU2024CS042",
+    "venue": "Innovation Lab",
+    "status": "Not Present",
+    "scannedAt": null
+  },
+  {
+    "regId": "BMU-2026-C4410",
+    "eventName": "Cultural Night & Jam",
+    "studentName": "Rohan Verma",
+    "studentId": "BMU2024CS042",
+    "venue": "Main Auditorium",
+    "status": "Present",
+    "scannedAt": "25 Sep 2026, 06:12 PM"
+  }
+]

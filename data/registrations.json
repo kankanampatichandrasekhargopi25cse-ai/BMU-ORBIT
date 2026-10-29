@@ -1,0 +1,37 @@
+[
+  {
+    "regId": "BMU-2026-X8921",
+    "eventId": "evt-1",
+    "eventName": "BMU Tech Workshop",
+    "club": "ACM Student Chapter",
+    "studentName": "Rohan Verma",
+    "studentId": "BMU2024CS042",
+    "studentEmail": "rohan.verma@bmu.edu.in",
+    "course": "B.Tech Computer Science & Engineering",
+    "year": "2nd Year",
+    "phone": "+91 98765 43210",
+    "date": "20 September 2026",
+    "time": "10:00 AM",
+    "venue": "Innovation Lab",
+    "status": "Not Present",
+    "registeredAt": "10 Sep 2026, 09:30 AM"
+  },
+  {
+    "regId": "BMU-2026-C4410",
+    "eventId": "evt-2",
+    "eventName": "Cultural Night & Jam",
+    "club": "Blaze & PFA",
+    "studentName": "Rohan Verma",
+    "studentId": "BMU2024CS042",
+    "studentEmail": "rohan.verma@bmu.edu.in",
+    "course": "B.Tech Computer Science & Engineering",
+    "year": "2nd Year",
+    "phone": "+91 98765 43210",
+    "date": "25 September 2026",
+    "time": "6:00 PM",
+    "venue": "Main Auditorium",
+    "status": "Present",
+    "registeredAt": "08 Sep 2026, 04:15 PM",
+    "scannedAt": "25 Sep 2026, 06:12 PM"
+  }
+]
